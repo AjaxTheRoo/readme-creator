@@ -1,7 +1,3 @@
-Here’s a sample README for a README Generator project on GitHub:  
-
----
-
 # README Creator  
 
 A simple command-line tool to quickly create professional and customizable `README.md` files for your projects. Save time and ensure your README includes all the essential details!  
